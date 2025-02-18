@@ -1,1 +1,1 @@
-# gtst_course
+This is ote writte while takig the Geez Tech Security Tester course
