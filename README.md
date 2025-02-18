@@ -1,1 +1,1 @@
-This is ote writte while takig the Geez Tech Security Tester course
+This is note writte while takig the Geez Tech Security Tester course
